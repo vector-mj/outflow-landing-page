@@ -8112,3 +8112,8 @@ html {
 .bigger-image{
   font-size: 10rem;
 }
+
+.leader-box{
+  display: flex;
+  align-items: center;
+}
